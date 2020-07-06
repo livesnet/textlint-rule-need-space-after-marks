@@ -21,7 +21,7 @@
   "directories": {
     "test": "test"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "yossy",
+  "license": "MIT",
+  "description": "textlint rule to put space after marks"
 }
